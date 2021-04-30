@@ -10,5 +10,12 @@ class MainActivity : AppCompatActivity() {
 
         val a=0
         val b=1
+
+
+
+    }
+
+    fun ff(){
+        val a=0
     }
 }

@@ -10,9 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         val a=32489234
         val b=2334
-
-
-
     }
 
     fun ff(){
